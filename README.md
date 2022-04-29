@@ -1,5 +1,5 @@
 
-### Olá! Eu sou o Henrique de Souza Silva 😎
+## Olá! Eu sou o Henrique de Souza Silva 😎
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/henri_.souza/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/henrique.souzasilva.547/)
@@ -17,5 +17,5 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
   </div><br/>
 
-Apaixonado por tecnologia e sempre pronto para novos desafios. 💻 🖱️
+## Apaixonado por tecnologia e sempre pronto para novos desafios. 💻 🖱️
 

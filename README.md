@@ -7,7 +7,7 @@
 
 ![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=Henrique2811&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique2811)](https://github.com/Henrique2811/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique2811&theme=dark)](https://github.com/Henrique2811/github-readme-stats)
 
 ## Linguagens de Programação que eu uso no meu dia:
 

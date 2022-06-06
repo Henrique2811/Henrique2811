@@ -9,8 +9,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique2811&theme=dark)](https://github.com/Henrique2811/github-readme-stats)
 
-![Snake animation](https://github.com/Henrique2811//blob/output/github-contribuition-grid-snake.svg)
-
 ## Linguagens de Programação que eu uso no meu dia:
 
 <div style="display: inline_block"><br/>
